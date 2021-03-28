@@ -1,7 +1,7 @@
 import pygame
+from graph import Node
 
 pygame.init()
-
 win = pygame.display.set_mode((500,500))
 pygame.display.set_caption("first game")
 x = 450

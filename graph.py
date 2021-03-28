@@ -7,7 +7,7 @@ class Node:
 		return self.neighbors
 
 
-if __name__ == '__main__':
+"""if __name__ == '__main__':
 
 	graph = Node((1,0)) 
-	print(graph.get_neighbors())
+	print(graph.get_neighbors())"""
